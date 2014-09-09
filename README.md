@@ -32,6 +32,7 @@ In emacs:
 
     M-x package-install rust-mode
     M-x package-install paredit
+    M-x package-install haskell-mode
 
 Add to `.emacs`:
 
